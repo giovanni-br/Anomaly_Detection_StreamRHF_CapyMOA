@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+satimages,OnlineIsolationForest,AP,0.011945674681529588,0.0
+satimages,OnlineIsolationForest,AUC (sklearn),0.49406593082570793,5.440092820663267e-17
+satimages,OnlineIsolationForest,AUC (paper),0.49406593082570793,5.440092820663267e-17
+satimages,OnlineIsolationForest,AUC (CapyMOA),0.49406593082570793,0.0
+satimages,OnlineIsolationForest,Execution Time,66.67498950958252,0.13516104822358713

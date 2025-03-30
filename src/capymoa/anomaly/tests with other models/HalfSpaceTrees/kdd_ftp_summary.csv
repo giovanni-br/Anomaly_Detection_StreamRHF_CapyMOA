@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+kdd_ftp,HalfSpaceTrees,AP,0.4391739533912181,3.6267285471088446e-17
+kdd_ftp,HalfSpaceTrees,AUC (sklearn),0.6622114009686523,0.0
+kdd_ftp,HalfSpaceTrees,AUC (paper),0.6622114009686523,0.0
+kdd_ftp,HalfSpaceTrees,AUC (CapyMOA),0.6622114009686523,0.0
+kdd_ftp,HalfSpaceTrees,Execution Time,0.16806766986846924,0.0029487814011834386

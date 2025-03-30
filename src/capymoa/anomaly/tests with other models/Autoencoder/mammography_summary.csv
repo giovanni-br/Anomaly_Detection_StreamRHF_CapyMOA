@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+mammography,Autoencoder,AP,0.15719392412109667,0.0
+mammography,Autoencoder,AUC (sklearn),0.7655460601835224,0.0
+mammography,Autoencoder,AUC (paper),0.7655460601835224,0.0
+mammography,Autoencoder,AUC (CapyMOA),0.7655460601835224,0.0
+mammography,Autoencoder,Execution Time,3.394511651992798,0.026142476417770066

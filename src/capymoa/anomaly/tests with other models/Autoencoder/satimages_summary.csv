@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+satimages,Autoencoder,AP,0.0122350508357746,0.0
+satimages,Autoencoder,AUC (sklearn),0.5,0.0
+satimages,Autoencoder,AUC (paper),0.5,0.0
+satimages,Autoencoder,AUC (CapyMOA),0.5,0.0
+satimages,Autoencoder,Execution Time,1.8772658824920654,0.003680512854014339

@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+thyroid,StreamRHF,AP,0.44385484610368503,
+thyroid,StreamRHF,AUC (sklearn),0.9710738366842322,
+thyroid,StreamRHF,AUC (paper),0.9710738366842322,
+thyroid,StreamRHF,AUC (CapyMOA),0.9710738366842322,
+thyroid,StreamRHF,Execution Time,424.9921190738678,

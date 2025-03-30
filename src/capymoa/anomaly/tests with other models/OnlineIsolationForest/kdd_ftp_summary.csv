@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+kdd_ftp,OnlineIsolationForest,AP,0.1961127635038567,0.0
+kdd_ftp,OnlineIsolationForest,AUC (sklearn),0.35026696273456104,3.6267285471088446e-17
+kdd_ftp,OnlineIsolationForest,AUC (paper),0.35026696273456104,3.6267285471088446e-17
+kdd_ftp,OnlineIsolationForest,AUC (CapyMOA),0.3502669627345611,3.6267285471088446e-17
+kdd_ftp,OnlineIsolationForest,Execution Time,55.282117223739625,0.09026702264439626

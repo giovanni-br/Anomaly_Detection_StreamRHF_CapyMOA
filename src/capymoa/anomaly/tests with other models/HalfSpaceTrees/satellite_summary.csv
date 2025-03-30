@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+satellite,HalfSpaceTrees,AP,0.31697467717591815,0.0
+satellite,HalfSpaceTrees,AUC (sklearn),0.9749253731343284,0.0
+satellite,HalfSpaceTrees,AUC (paper),0.9749253731343284,0.0
+satellite,HalfSpaceTrees,AUC (CapyMOA),0.9749253731343284,0.0
+satellite,HalfSpaceTrees,Execution Time,0.16499228477478028,0.0006964969077192599

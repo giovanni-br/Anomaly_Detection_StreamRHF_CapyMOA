@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+abalone,Autoencoder,AP,0.11631868159807954,9.066821367772112e-18
+abalone,Autoencoder,AUC (sklearn),0.854574299312533,0.0
+abalone,Autoencoder,AUC (paper),0.854574299312533,0.0
+abalone,Autoencoder,AUC (CapyMOA),0.854574299312533,0.0
+abalone,Autoencoder,Execution Time,0.5960517883300781,0.024240252508330853

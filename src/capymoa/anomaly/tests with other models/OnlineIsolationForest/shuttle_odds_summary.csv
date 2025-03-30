@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+shuttle_odds,OnlineIsolationForest,AP,0.039613221338383936,0.0
+shuttle_odds,OnlineIsolationForest,AUC (sklearn),0.10093758267211989,0.0
+shuttle_odds,OnlineIsolationForest,AUC (paper),0.10093758267211989,0.0
+shuttle_odds,OnlineIsolationForest,AUC (CapyMOA),0.10093758267211986,0.0
+shuttle_odds,OnlineIsolationForest,Execution Time,616.4438925981522,2.083033423423767

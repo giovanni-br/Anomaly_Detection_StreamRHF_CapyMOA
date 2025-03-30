@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+satellite,Autoencoder,AP,0.014705882352941176,0.0
+satellite,Autoencoder,AUC (sklearn),0.5,0.0
+satellite,Autoencoder,AUC (paper),0.5,0.0
+satellite,Autoencoder,AUC (CapyMOA),0.5,0.0
+satellite,Autoencoder,Execution Time,1.6530823230743408,0.0015306676247792241

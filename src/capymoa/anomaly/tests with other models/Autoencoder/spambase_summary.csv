@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+spambase,Autoencoder,AP,0.5067211967535838,0.0
+spambase,Autoencoder,AUC (sklearn),0.6784102896267276,0.0
+spambase,Autoencoder,AUC (paper),0.6784102896267276,0.0
+spambase,Autoencoder,AUC (CapyMOA),0.6784102896267274,0.0
+spambase,Autoencoder,Execution Time,1.552861785888672,0.0029753874752016466

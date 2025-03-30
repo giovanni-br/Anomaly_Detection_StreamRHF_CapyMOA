@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+mammography,HalfSpaceTrees,AP,0.18354774256458076,1.8133642735544223e-17
+mammography,HalfSpaceTrees,AUC (sklearn),0.9118654004605666,0.0
+mammography,HalfSpaceTrees,AUC (paper),0.9118654004605666,0.0
+mammography,HalfSpaceTrees,AUC (CapyMOA),0.9118654004605666,0.0
+mammography,HalfSpaceTrees,Execution Time,0.3434364557266235,0.023948425129740793

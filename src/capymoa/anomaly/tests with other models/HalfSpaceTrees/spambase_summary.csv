@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+spambase,HalfSpaceTrees,AP,0.28157743591408624,0.0
+spambase,HalfSpaceTrees,AUC (sklearn),0.2709018676686231,0.0
+spambase,HalfSpaceTrees,AUC (paper),0.2709018676686231,0.0
+spambase,HalfSpaceTrees,AUC (CapyMOA),0.2709018676686232,0.0
+spambase,HalfSpaceTrees,Execution Time,0.1490309238433838,0.0003242794521671528

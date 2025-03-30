@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+thyroid,HalfSpaceTrees,AP,0.5592420913876809,0.0
+thyroid,HalfSpaceTrees,AUC (sklearn),0.9789008817847298,7.253457094217689e-17
+thyroid,HalfSpaceTrees,AUC (paper),0.9789008817847298,7.253457094217689e-17
+thyroid,HalfSpaceTrees,AUC (CapyMOA),0.97890088178473,0.0
+thyroid,HalfSpaceTrees,Execution Time,0.139113187789917,0.023498166960469292

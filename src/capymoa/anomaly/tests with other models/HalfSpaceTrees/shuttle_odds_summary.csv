@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+shuttle_odds,HalfSpaceTrees,AP,0.5475660295007737,0.0
+shuttle_odds,HalfSpaceTrees,AUC (sklearn),0.8988347794447327,0.0
+shuttle_odds,HalfSpaceTrees,AUC (paper),0.8988347794447327,0.0
+shuttle_odds,HalfSpaceTrees,AUC (CapyMOA),0.8988347794447328,0.0
+shuttle_odds,HalfSpaceTrees,Execution Time,1.419753074645996,0.0015593814849853514

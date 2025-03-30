@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+musk,Autoencoder,AP,0.03167864141084259,0.0
+musk,Autoencoder,AUC (sklearn),0.5,0.0
+musk,Autoencoder,AUC (paper),0.5,0.0
+musk,Autoencoder,AUC (CapyMOA),0.5,0.0
+musk,Autoencoder,Execution Time,1.2921820163726807,0.0036056095999528206

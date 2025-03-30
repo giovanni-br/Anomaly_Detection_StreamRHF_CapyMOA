@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+thyroid,OnlineIsolationForest,AP,0.014411089983228518,1.133352670971514e-18
+thyroid,OnlineIsolationForest,AUC (sklearn),0.16759170765781956,1.8133642735544223e-17
+thyroid,OnlineIsolationForest,AUC (paper),0.16759170765781956,1.8133642735544223e-17
+thyroid,OnlineIsolationForest,AUC (CapyMOA),0.16759170765781956,1.8133642735544223e-17
+thyroid,OnlineIsolationForest,Execution Time,32.617670035362245,0.06932842118685564

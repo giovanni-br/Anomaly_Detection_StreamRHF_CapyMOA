@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+mnist,HalfSpaceTrees,AP,0.11676138138981491,9.066821367772112e-18
+mnist,HalfSpaceTrees,AUC (sklearn),0.558258935038596,0.0
+mnist,HalfSpaceTrees,AUC (paper),0.558258935038596,0.0
+mnist,HalfSpaceTrees,AUC (CapyMOA),0.558258935038596,0.0
+mnist,HalfSpaceTrees,Execution Time,0.2402499198913574,0.0002852949280442922

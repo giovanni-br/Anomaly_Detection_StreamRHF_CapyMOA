@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+annthyroid,OnlineIsolationForest,AP,0.07886359834253986,0.0
+annthyroid,OnlineIsolationForest,AUC (sklearn),0.5161229606106679,0.0
+annthyroid,OnlineIsolationForest,AUC (paper),0.5161229606106679,0.0
+annthyroid,OnlineIsolationForest,AUC (CapyMOA),0.5161229606106678,0.0
+annthyroid,OnlineIsolationForest,Execution Time,76.55665204524993,0.14293934166059616

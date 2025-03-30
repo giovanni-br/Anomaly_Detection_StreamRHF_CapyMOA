@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+mnist,OnlineIsolationForest,AP,0.0854625737159282,9.066821367772112e-18
+mnist,OnlineIsolationForest,AUC (sklearn),0.4989477659816643,3.6267285471088446e-17
+mnist,OnlineIsolationForest,AUC (paper),0.4989477659816643,3.6267285471088446e-17
+mnist,OnlineIsolationForest,AUC (CapyMOA),0.4989477659816643,0.0
+mnist,OnlineIsolationForest,Execution Time,101.11881823539734,0.1499455278333598

@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+annthyroid,Autoencoder,AP,0.08555837373141151,0.0
+annthyroid,Autoencoder,AUC (sklearn),0.5341152092737362,7.253457094217689e-17
+annthyroid,Autoencoder,AUC (paper),0.5341152092737362,7.253457094217689e-17
+annthyroid,Autoencoder,AUC (CapyMOA),0.5341152092737362,7.253457094217689e-17
+annthyroid,Autoencoder,Execution Time,2.178444337844849,0.007539172477767574

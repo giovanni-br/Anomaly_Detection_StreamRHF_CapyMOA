@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+musk,OnlineIsolationForest,AP,0.494922214323321,0.0
+musk,OnlineIsolationForest,AUC (sklearn),0.6121798995149597,0.0
+musk,OnlineIsolationForest,AUC (paper),0.6121798995149597,0.0
+musk,OnlineIsolationForest,AUC (CapyMOA),0.6121798995149598,0.0
+musk,OnlineIsolationForest,Execution Time,25.2227575302124,0.0851192171328458

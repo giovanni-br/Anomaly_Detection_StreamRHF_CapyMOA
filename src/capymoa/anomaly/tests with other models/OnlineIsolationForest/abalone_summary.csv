@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+abalone,OnlineIsolationForest,AP,0.033300724152504506,0.0
+abalone,OnlineIsolationForest,AUC (sklearn),0.3180218457666989,0.0
+abalone,OnlineIsolationForest,AUC (paper),0.3180218457666989,0.0
+abalone,OnlineIsolationForest,AUC (CapyMOA),0.3180218457666989,0.0
+abalone,OnlineIsolationForest,Execution Time,10.833246564865112,0.07323805800214725

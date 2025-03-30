@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+magicgamma,OnlineIsolationForest,AP,0.28684279761662507,0.0
+magicgamma,OnlineIsolationForest,AUC (sklearn),0.39564575041670097,0.0
+magicgamma,OnlineIsolationForest,AUC (paper),0.39564575041670097,0.0
+magicgamma,OnlineIsolationForest,AUC (CapyMOA),0.3956457504167009,0.0
+magicgamma,OnlineIsolationForest,Execution Time,262.77348816394806,0.37440094516017847

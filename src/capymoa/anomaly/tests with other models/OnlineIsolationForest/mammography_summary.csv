@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+mammography,OnlineIsolationForest,AP,0.04933570209159779,4.533410683886056e-18
+mammography,OnlineIsolationForest,AUC (sklearn),0.7488225269192037,0.0
+mammography,OnlineIsolationForest,AUC (paper),0.7488225269192037,0.0
+mammography,OnlineIsolationForest,AUC (CapyMOA),0.7488225269192037,0.0
+mammography,OnlineIsolationForest,Execution Time,154.47547481060028,0.1730701512982449

@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+thyroid,Autoencoder,AP,0.10349897330059946,0.0
+thyroid,Autoencoder,AUC (sklearn),0.8231929550748657,7.253457094217689e-17
+thyroid,Autoencoder,AUC (paper),0.8231929550748657,7.253457094217689e-17
+thyroid,Autoencoder,AUC (CapyMOA),0.8231929550748655,0.0
+thyroid,Autoencoder,Execution Time,1.1418395042419434,0.0024016037889189406

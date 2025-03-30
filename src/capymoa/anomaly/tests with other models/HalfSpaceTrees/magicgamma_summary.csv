@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+magicgamma,HalfSpaceTrees,AP,0.27230359357330075,0.0
+magicgamma,HalfSpaceTrees,AUC (sklearn),0.38240992431096904,0.0
+magicgamma,HalfSpaceTrees,AUC (paper),0.38240992431096904,0.0
+magicgamma,HalfSpaceTrees,AUC (CapyMOA),0.3824099243109691,0.0
+magicgamma,HalfSpaceTrees,Execution Time,0.6237350702285767,0.11196785949659055

@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+kdd_ftp,Autoencoder,AP,0.15741640052234085,0.0
+kdd_ftp,Autoencoder,AUC (sklearn),0.12411817941165808,0.0
+kdd_ftp,Autoencoder,AUC (paper),0.12411817941165808,0.0
+kdd_ftp,Autoencoder,AUC (CapyMOA),0.12411817941165808,9.066821367772112e-18
+kdd_ftp,Autoencoder,Execution Time,1.5553656816482544,0.002149669712739365

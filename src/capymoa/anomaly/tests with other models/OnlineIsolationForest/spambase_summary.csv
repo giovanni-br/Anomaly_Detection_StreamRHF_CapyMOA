@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+spambase,OnlineIsolationForest,AP,0.5682929503992192,0.0
+spambase,OnlineIsolationForest,AUC (sklearn),0.4957474749952716,5.440092820663267e-17
+spambase,OnlineIsolationForest,AUC (paper),0.4957474749952716,5.440092820663267e-17
+spambase,OnlineIsolationForest,AUC (CapyMOA),0.4957474749952716,5.440092820663267e-17
+spambase,OnlineIsolationForest,Execution Time,35.09283609390259,0.10151495797432698

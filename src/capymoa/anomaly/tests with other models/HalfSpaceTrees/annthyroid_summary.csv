@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+annthyroid,HalfSpaceTrees,AP,0.5767496242614074,0.0
+annthyroid,HalfSpaceTrees,AUC (sklearn),0.9738381141484934,0.0
+annthyroid,HalfSpaceTrees,AUC (paper),0.9738381141484934,0.0
+annthyroid,HalfSpaceTrees,AUC (CapyMOA),0.9738381141484936,7.253457094217689e-17
+annthyroid,HalfSpaceTrees,Execution Time,0.23079733848571776,0.03212854861666317

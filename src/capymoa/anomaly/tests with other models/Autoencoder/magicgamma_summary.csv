@@ -1,0 +1,6 @@
+Dataset,Model,Metric,Mean,CI (95%)
+magicgamma,Autoencoder,AP,0.3516298633017876,0.0
+magicgamma,Autoencoder,AUC (sklearn),0.5,0.0
+magicgamma,Autoencoder,AUC (paper),0.5,0.0
+magicgamma,Autoencoder,AUC (CapyMOA),0.5,0.0
+magicgamma,Autoencoder,Execution Time,5.8030678033828735,0.010150094698665482
